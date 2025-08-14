@@ -1,16 +1,16 @@
-# SQL Storytelling: Welcome to DataVille
+# Bem-vindo à Biblioteca Virtual
 
-Imagine you are a new resident in DataVille, a city where everything is stored in databases. Your mission is to learn how to find, add, and change information about the people and their posts in DataVille.
+Seja bem-vindo à Biblioteca Virtual, um ambiente dedicado ao aprendizado de SQL por meio da gestão de autores e livros. Neste contexto, você atuará como bibliotecário responsável por consultar, inserir e modificar informações no banco de dados da instituição.
 
-## Meet the Residents
-- **Alice**: Loves to write posts about her adventures.
-- **Bob**: Shares his thoughts with everyone.
-- **Charlie**: The youngest resident, just getting started.
+## Autores em Destaque
+- **Machado de Assis**: Referência da literatura brasileira, autor de clássicos como "Dom Casmurro".
+- **Clarice Lispector**: Escritora reconhecida pela profundidade e originalidade de suas obras.
+- **Jorge Amado**: Notável por retratar a cultura e o cotidiano do povo brasileiro.
 
-## Your Journey
-1. **Explore the City**: Use SQL to look up who lives in DataVille.
-2. **Discover Stories**: Find out what posts people have written.
-3. **Make New Friends**: Add new residents and posts.
-4. **Solve Mysteries**: Update and delete information as the story unfolds.
+## Estrutura da Lição
+1. **Exploração do Acervo**: Aprenda a consultar autores e livros cadastrados utilizando comandos SQL.
+2. **Cadastro de Novos Livros**: Insira registros de novos títulos e autores no banco de dados.
+3. **Atualização de Informações**: Modifique dados existentes conforme a necessidade da biblioteca.
+4. **Gestão de Pendências**: Remova ou corrija informações para manter o acervo organizado e confiável.
 
-Throughout this lesson, you’ll use SQL commands to interact with the city’s database and help its residents. Ready to begin your adventure?
+Durante esta lição, você utilizará comandos SQL para interagir com o banco de dados da biblioteca, desenvolvendo habilidades essenciais para a administração de dados. Está preparado para iniciar sua jornada de aprendizado?
